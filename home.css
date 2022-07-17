@@ -1,0 +1,97 @@
+body, html{
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.ping{
+    background-image: url(./media/pic5.jpg);
+    background-size: cover;
+    height: 100%;
+    background-attachment: fixed;
+   
+}
+.ping2{
+    background-image: url(./media/pic2.jpg);
+    background-size: cover;
+    height: 100%;
+    background-attachment: fixed;
+   
+}
+.ping3{
+    background-image: url(./media/pic3.jpg);
+    background-size: cover;
+    height: 100%;
+    background-attachment: fixed;
+   
+}
+.ping4{
+    background-image: url(./media/pic4.jpg);
+    background-size: cover;
+    height: 100%;
+    background-attachment: fixed;
+   
+}
+.ping5{
+    background-image: url(./media/pic1.jpg);
+    background-size: cover;
+    height: 100%;
+    background-attachment: fixed;
+   
+}
+.ping6{
+    background-image: url(./media/pic6.jpg);
+    background-size: cover;
+    height: 100%;
+    background-attachment: fixed;
+   
+}
+
+.ptext{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+}
+.p1{
+    color: aliceblue;
+    position: absolute;
+    top: 50%;
+    background-color: dimgrey;
+    padding: 10px;
+    font-size: xx-large;
+    font-weight: bolder;
+    border-radius: 15px;
+}
+section {
+    padding: 30px 5px;
+}
+section h2 ,p{
+    text-align: center;
+}
+
+.pp1{
+    background-color: rgb(254, 214, 214);
+}
+
+/*22*/
+
+.ptext2{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+}
+.p2{
+    color: aliceblue;
+    position: absolute;
+    top: 50%;
+    background-color: dimgrey;
+    padding: 10px;
+    font-size: xx-large;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+.pp2{
+    background-color: rgb(217, 199, 199);
+}
